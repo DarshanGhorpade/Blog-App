@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screens
+* Home Screen
+![localhost_3000_](https://user-images.githubusercontent.com/87860114/171561373-e54a5c08-8555-49a3-bb7c-05d7ab470c46.png)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
