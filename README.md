@@ -3,14 +3,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screens
+
 * Home Screen
 ![localhost_3000_ (1)](https://user-images.githubusercontent.com/87860114/171561575-49918ce8-5dad-43b3-8a28-8bdd8cd52e5b.png)
+
+
+
 
 * Single Blog Screen
 ![localhost_3000_ (2)](https://user-images.githubusercontent.com/87860114/171561723-b44755a4-d15e-4876-8dbe-4560be200429.png)
 
+
+
+
+
 * Login Screen
 ![localhost_3000_ (3)](https://user-images.githubusercontent.com/87860114/171561896-e4c3bb2c-2ac8-4bcb-9760-3afa6d3ad186.png)
+
+
+
+
 
 * Register Screen
 ![localhost_3000_ (4)](https://user-images.githubusercontent.com/87860114/171561912-91de27c1-980b-411b-9593-0e125a212743.png)
